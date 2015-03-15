@@ -2,7 +2,7 @@
 
 <phonebook>
 
- <letter="A">
+ <letter char="A">
  
   <entry number="1">
    <category>Family</category>
@@ -12,7 +12,7 @@
   
  </letter>
 
- <letter="B">
+ <letter char="B">
   
   <entry number="1">
    <category>Friend</category>
@@ -22,7 +22,7 @@
   
  </letter>
 
- <letter="C">
+ <letter char="C">
  
   <entry number="1">
    <category>Business</category>
