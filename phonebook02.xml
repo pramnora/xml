@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
 <phonebook>
+
  <letter="A">
   <entry number="1">
    <category>Family</category>
@@ -7,6 +9,7 @@
    <number>123</number>
   </entry>
  </letter>
+
  <letter="B">
   <entry number="1">
    <category>Friend</category>
@@ -14,6 +17,7 @@
    <number>123</number>
   </entry>
  </letter>
+
  <letter="C">
   <entry number="1">
    <category>Business</category>
@@ -21,4 +25,5 @@
    <number>123</number>
   </entry>
  </letter>
+
 </phonebook>
