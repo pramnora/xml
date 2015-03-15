@@ -3,27 +3,34 @@
 <phonebook>
 
  <letter="A">
+ 
   <entry number="1">
    <category>Family</category>
    <name>A</name>
    <number>123</number>
   </entry>
+ 
+  
  </letter>
 
  <letter="B">
+  
   <entry number="1">
    <category>Friend</category>
    <name>A</name>
    <number>123</number>
   </entry>
+  
  </letter>
 
  <letter="C">
+ 
   <entry number="1">
    <category>Business</category>
    <name>A</name>
    <number>123</number>
   </entry>
+  
  </letter>
 
 </phonebook>
