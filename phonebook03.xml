@@ -3,42 +3,57 @@
 <phonebook>
 
  <category name="Business">
+  
   <letter char="A">
+  
    <entry number="1">
     <name>A1</name>
     <phone>111</phone>
    </entry>
+  
    <entry number="2">
     <name>A2</name>
     <phone>222</phone>
    </entry>
+  
   </letter>
- </category>
+ <
+ /category>
  
  <category name="Family">
+ 
   <letter char="A">
+ 
    <entry number="1">
     <name>A1</name>
     <phone>111</phone>
    </entry>
+ 
    <entry number="2">
     <name>A2</name>
     <phone>222</phone>
    </entry>
+ 
   </letter>
+ 
  </category>
 
  <category name="Friends">
+ 
   <letter char="A">
+ 
    <entry number="1">
     <name>A1</name>
     <phone>111</phone>
    </entry>
+ 
    <entry number="2">
     <name>A2</name>
     <phone>222</phone>
    </entry>
+ 
   </letter>
+ 
  </category>
 
 </phonebook>
