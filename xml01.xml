@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<root-tag>
+ <sub-tag-1 anyAttributeName="value" />
+ <sub-tag-2>
+  Any alphanumeric text content goes inside here...
+ </sub-tag-2>
+</root-tag>
