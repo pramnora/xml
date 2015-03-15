@@ -6,12 +6,12 @@
   
   <letter char="A">
   
-   <entry number="1">
+   <entry number="1" date="" time="">
     <name>A1</name>
     <phone>111</phone>
    </entry>
   
-   <entry number="2">
+   <entry number="2" date="" time="">
     <name>A2</name>
     <phone>222</phone>
    </entry>
@@ -24,12 +24,12 @@
  
   <letter char="A">
  
-   <entry number="1">
+   <entry number="1" date="" time="">
     <name>A1</name>
     <phone>111</phone>
    </entry>
  
-   <entry number="2">
+   <entry number="2" date="" time="">
     <name>A2</name>
     <phone>222</phone>
    </entry>
@@ -42,12 +42,12 @@
  
   <letter char="A">
  
-   <entry number="1">
+   <entry number="1" date="" time="">
     <name>A1</name>
     <phone>111</phone>
    </entry>
  
-   <entry number="2">
+   <entry number="2" date="" time="">
     <name>A2</name>
     <phone>222</phone>
    </entry>
