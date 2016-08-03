@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/css" href="hw02.css" ?>
+<greeting>
+ <message1 type="hi">Hello, world!</message1>
+ <message2 someAttributeVal="cya">Goodbye</message2>
+</greeting>
