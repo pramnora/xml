@@ -1,0 +1,23 @@
+/* The messages are set to display as 'block' so that each message displays on its own separate line... */
+
+message1,message2{
+ display:block;
+}
+
+/* inserting text content before... */
+
+message1:before{
+ color:orange;content:"Greeting";
+}
+
+/* inserting text content (attribute type value content) after... */
+
+message1:after{
+ color:green; content:attr(type);
+}
+
+/* Using square brackets: [] to select a specific attributeName./NOTE: The careful use of spaces when outputting text... */
+
+message2[someAttributeVal]:after{
+ content: "( " attr(someAttributeVal) ")"
+}
