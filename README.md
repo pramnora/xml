@@ -29,6 +29,7 @@ XML, uses very 'strict' rules...;
 - all paired tags needs to be closed, properly, with a forwards facing slash;    
 - each single tag needs to be closed, properly, with a forwards facing slash;     
 - each attribute/value pair needs to have a pair of double quotes around it.
-- there can only be just 'one' root tag pair;  
+- other tags can repeat...; but there must be only 'one' root tag pair;  
 - etc.  
-  
+
+-(**NOTE**: These XML rules can each be 'enforced' by using a XML DTD/Document Type Definition document.)-      
