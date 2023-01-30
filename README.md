@@ -36,3 +36,23 @@ XML, uses very 'strict' rules...;
 - etc.  
 
 -(**NOTE**: These XML rules can each be 'enforced' by using a XML DTD/Document Type Definition document.)-      
+
+-----
+
+## OTHER XML TECHNOLOGIES
+
+Just like HTML is not a stand alone technology...; but, also, includes such things as CSS/Javascript/-etc.  
+
+XML, has a number of additional technologies tacked onto it, too:- 
+
+- DTD/XSD
+- XSL/XSLD
+- XML/CSS stylesheet
+- XPointer
+- XQuery
+- XLink
+- etc.
+
+...in addition to which there are specific editors for both creating/and, developing XML.  
+
+
