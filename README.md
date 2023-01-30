@@ -57,4 +57,16 @@ XML, has a number of additional technologies tacked onto it, too:-
 
 ...in addition to which there are specific editors for both creating/testing/and, developing XML.  
 
+And, that's not to mention the many spin off technologies that are based on XML...
+
+- SVG, Scaleable Vector Graphics  
+- RSS, Really Simple Syndicate  
+- etc.
+
+-----
+
+## Links
+
+### Tutorials
+
 
