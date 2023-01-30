@@ -15,14 +15,17 @@ then, you could invent your own root-tag called: phonebook.
 
 
 &lt;phonebook&gt;    
+
 &lt;entry number="1"&gt;    
 &lt;name&gt;Jack&lt;/name&gt;    
 &lt;number&gt;1111 111 1111&lt;/number&gt;    
 &lt;/entry&gt;    
+
 &lt;entry number="2"&gt;    
 &lt;name&gt;Jill&lt;/name&gt;    
 &lt;number&gt;2222 222 2222&lt;/number&gt;    
 &lt;/entry&gt;    
+
 &lt;/phonebook&gt;    
   
 XML, uses very 'strict' rules...;   
