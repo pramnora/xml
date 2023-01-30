@@ -4,7 +4,7 @@ eXtensible MarkUp Language code
 XML is a DDL/Data Description Language;  
 and, as such, it is very good at, carefully, 'categorising' data;  
 this is because it allows one to both invent/and, name your 'own' tags...;  
-therefore, you are free to adapt XML tags entirely to suit whatever is your own specific needs.  
+therefore, you are free to adapt XML tags entirely to suit whatever is your own specific purpose/needs.  
 
 For example, let us say you wanted to create a 'phonebook' application;  
 then, you could invent your own root-tag called: phonebook.  
@@ -16,10 +16,8 @@ then, you could invent your own root-tag called: phonebook.
 
 &lt;phonebook&gt;    
 &lt;entry number="1"&gt;    
-&lt;name&gt;    
-&lt;/name&gt;    
-&lt;number&gt;    
-&lt;/number&gt;    
+&lt;name&gt;Jack&lt;/name&gt;    
+&lt;number&gt;1111 111 1111&lt;/number&gt;    
 &lt;/entry&gt;    
 &lt;/phonebook&gt;    
   
