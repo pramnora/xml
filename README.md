@@ -55,6 +55,6 @@ XML, has a number of additional technologies tacked onto it, too:-
 - XLink
 - etc.
 
-...in addition to which there are specific editors for both creating/and, developing XML.  
+...in addition to which there are specific editors for both creating/testing/and, developing XML.  
 
 
