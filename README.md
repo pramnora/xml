@@ -1,6 +1,8 @@
 # xml
 eXtensible MarkUp Language code
 
+## XML Basics
+
 XML is a DDL/Data Description Language;  
 and, as such, it is very good at, carefully, 'categorising' data;  
 this is because it allows one to both invent/and, name your 'own' tags...;  
