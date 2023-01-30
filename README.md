@@ -9,13 +9,24 @@ therefore, you are free to adapt XML tags entirely to suit whatever is your own 
 For example, let us say you wanted to create a 'phonebook' application;  
 then, you could invent your own root-tag called: phonebook.  
 
-&lt;phonebook&gt;  
--(the rest of your XML tags goes inside here...)-  
-&lt;/phonebook&gt;  
+&lt;root-tag-name-pair&gt;  
+-(all the rest of your XML tags goes inside here...)-  
+&lt;/root-tag-name-pair&gt;  
 
+
+&lt;phonebook&gt;    
+&lt;entry number="1"&gt;    
+&lt;name&gt;    
+&lt;/name&gt;    
+&lt;number&gt;    
+&lt;/number&gt;    
+&lt;/entry&gt;    
+&lt;/phonebook&gt;    
+  
 XML, uses very 'strict' rules...;   
 - all paired tags needs to be closed, properly, with a forwards facing slash;    
 - each single tag needs to be closed, properly, with a forwards facing slash;     
 - there can only be just 'one' root tag pair;  
+- each attribute/value pair needs to have quotes around it.
 - etc.  
   
