@@ -69,4 +69,7 @@ And, that's not to mention the many spin off technologies that are based on XML.
 
 ### Tutorials
 
+W3Schools...
+
+- https://www.w3schools.com/xml/default.asp
 
